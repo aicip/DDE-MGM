@@ -48,19 +48,19 @@ Compare to the state-of-the-art algorithms
 
 
 ## Folders and Files
-* [DE](https://github.com/ZZUTK/Delay_Embedding/tree/master/DE) implements Delay Embedding
+* [DE](https://bitbucket.org/aicip/delay_embedding/src/06dacd9ae1c0b341ca802e06ff846a281f482d3d/DE/?at=master) implements Delay Embedding
  * `delayEmbeding.m` implements 1-D delay embedding
  * `delayEmbedingND.m` implements multi-dimensional delay embedding
-* [MGM](https://github.com/ZZUTK/Delay_Embedding/tree/master/MGM) learns Markov Geographic Model
+* [MGM](https://bitbucket.org/aicip/delay_embedding/src/06dacd9ae1c0b341ca802e06ff846a281f482d3d/MGM/?at=master) learns Markov Geographic Model
  * `createGrid.m` creates discretized embedding space.
  * `add2Trans.m` records learned transition
  * `Trans_Prob.m` computes transition probability
  * `HDist.m` calculates distance between a testing sample and learned model (transition probability) 
-* [data](https://github.com/ZZUTK/Delay_Embedding/tree/master/data) 
+* [data](https://bitbucket.org/aicip/delay_embedding/src/06dacd9ae1c0b341ca802e06ff846a281f482d3d/data/?at=master) 
  * `MSR_Action3D.mat` is the [MSR Action3D dataset](http://research.microsoft.com/en-us/um/people/zliu/actionrecorsrc/)
  * `UCI_CharacterTrajectories.mat` is the [Character Trajectories Data Set ](https://archive.ics.uci.edu/ml/datasets/Character+Trajectories) from UCI
  * `setting_MSR.m` and `setting_UCI.m` are settings for the two datasets used in `MAIN.m`
-* [utilities](https://github.com/ZZUTK/Delay_Embedding/tree/master/utilities)
+* [utilities](https://bitbucket.org/aicip/delay_embedding/src/06dacd9ae1c0b341ca802e06ff846a281f482d3d/utilities/?at=master)
  * `confusionMatrix.m` plots the confusion matrix
  * `defaultColors.mat` stores the default color map of Matlab
  * `lowpassFilter.m` performs low-pass filter to filter the raw data
