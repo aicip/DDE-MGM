@@ -1,8 +1,8 @@
 # Delay Embedding
 Time series modeling and classification based on delay embedding.  
 
-* [Pre-requisites](#pre-requisites )
-* [Running the Test](#Running)
+* [Pre-requisites](#Pre-requisites )
+* [Running the Test](#Run the test)
 * [Preliminary Results](#Result)
 * [Folders and Files](#Folders)
 * [Citation](#Citation)
@@ -11,14 +11,14 @@ Time series modeling and classification based on delay embedding.
 ## Pre-requisites 
 Matlab (the code has been tested on Matlab 2015a)
 
-<a name="Running">
-## Running the test
+
+## Run the test
 Run `MAIN.m`
 ```
 >> MAIN
 ```
 
-<a name="Result">
+
 ## Preliminary Results
 The running print on MSR Action 3D dataset is shown as follow
 ```
@@ -45,7 +45,7 @@ Compare to the state-of-the-art algorithms
 | **Accuracy** | 93.6% | 92.03% | 94.49%* | 93.0% | 93.77% / 94.52%* |
 *Note: the * marker denotes the results from subsets, which is usually higher than that from the whole dataset*
 
-<a name="Folders">
+
 ## Folders and Files
 * [DE](https://github.com/ZZUTK/Delay_Embedding/tree/master/DE) implements Delay Embedding
  * `delayEmbeding.m` implements 1-D delay embedding
@@ -64,7 +64,7 @@ Compare to the state-of-the-art algorithms
  * `defaultColors.mat` stores the default color map of Matlab
  * `lowpassFilter.m` performs low-pass filter to filter the raw data
 
-<a name="Citation">
+
 ## Citation
 Zhifei Zhang, Yang Song, Wei Wang, and Hairong Qi. "Derivative Delay Embedding: Online Modeling of Streaming Time Series". *The 25th ACM International Conference on Information and Knowledge Management (CIKM)*, 2016. 
 
