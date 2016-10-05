@@ -7,7 +7,7 @@ Time series modeling and classification based on delay embedding.
 * [Folders and Files](#Folders)
 * [Citation](#Citation)
 
-</a name="Requirements"/>
+<a name="Requirements"/>
 ## Pre-requisites 
 Matlab (the code has been tested on Matlab 2015a)
 
