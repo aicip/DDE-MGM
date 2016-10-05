@@ -3,9 +3,9 @@ Time series modeling and classification based on delay embedding.
 
 - [Pre-requisites](#markdown-header-pre-requisites)
 - [Running the Test](#markdown-header-run-the-test)
-- [Preliminary Results](#Result)
-- [Folders and Files](#Folders)
-- [Citation](#Citation)
+- [Preliminary Results](#markdown-header-preliminary-results)
+- [Folders and Files](#markdown-header-folders-and-files)
+- [Citation](#markdown-header-citation)
 
 
 ## Pre-requisites 
@@ -69,6 +69,7 @@ Compare to the state-of-the-art algorithms
 Zhifei Zhang, Yang Song, Wei Wang, and Hairong Qi. "Derivative Delay Embedding: Online Modeling of Streaming Time Series". *The 25th ACM International Conference on Information and Knowledge Management (CIKM)*, 2016. 
 
 ```
+#!latex
 @inproceedings{zhang2016derivative,
   title={Derivative Delay Embedding: Online Modeling of Streaming Time Series},
   author={Zhang, Zhifei and Song, Yang and Wang, Wei and Qi, Hairong},
