@@ -49,8 +49,8 @@ Compare to the state-of-the-art algorithms
 
 ## Folders and Files
 * [DE](https://bitbucket.org/aicip/delay_embedding/src/06dacd9ae1c0b341ca802e06ff846a281f482d3d/DE/?at=master) implements Delay Embedding
-     * `delayEmbeding.m` implements 1-D delay embedding
-     * `delayEmbedingND.m` implements multi-dimensional delay embedding
+    * `delayEmbeding.m` implements 1-D delay embedding
+    * `delayEmbedingND.m` implements multi-dimensional delay embedding
 * [MGM](https://bitbucket.org/aicip/delay_embedding/src/06dacd9ae1c0b341ca802e06ff846a281f482d3d/MGM/?at=master) learns Markov Geographic Model
  * `createGrid.m` creates discretized embedding space.
  * `add2Trans.m` records learned transition
