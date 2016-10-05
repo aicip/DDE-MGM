@@ -1,7 +1,7 @@
 # Delay Embedding
 Time series modeling and classification based on delay embedding.  
 
-* [Pre-requisites](#Pre-requisites )
+* [Pre-requisites](#pre-requisites )
 * [Running the Test](#Running)
 * [Preliminary Results](#Result)
 * [Folders and Files](#Folders)
