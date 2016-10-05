@@ -2,7 +2,7 @@
 Time series modeling and classification based on delay embedding.  
 
 - [Pre-requisites](#markdown-header-pre-requisites)
-- [Running the Test](#markdown-header-Run-the-test)
+- [Running the Test](#markdown-header-run-the-test)
 - [Preliminary Results](#Result)
 - [Folders and Files](#Folders)
 - [Citation](#Citation)
