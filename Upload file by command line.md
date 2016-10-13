@@ -1,4 +1,4 @@
-# Upload files or folders by command line
+# Upload a file by command line
 
 ## Pre-requisite
 * git (installed on the work station)
@@ -16,3 +16,13 @@ $ git clone URL
 ```
 $ cd repo
 ```
+
+4.Add a new file to the local repo
+
+5.In the folder of local repo, type
+```
+$ git add newfile
+$ git commit -m 'message'
+$ git push
+```
+Then account name and password are requied
