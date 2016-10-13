@@ -64,6 +64,7 @@ Comparison to the state-of-the-art algorithms
     * `confusionMatrix.m` plots the confusion matrix
     * `defaultColors.mat` stores the default color map of Matlab
     * `lowpassFilter.m` performs low-pass filter to filter the raw data
+* [paper](https://bitbucket.org/aicip/delay_embedding/src/80d2f795015cfcc259ef9eadd4503d3566ddc1fd/paper/?at=master) includes the published paper and presentation
 
 
 ## Citation
