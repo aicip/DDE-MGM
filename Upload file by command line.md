@@ -1,4 +1,4 @@
-# Upload a file by command line
+# Upload a file to Bitbucket via command line
 
 ## Pre-requisite
 * git (installed on the work station)
