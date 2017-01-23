@@ -1,7 +1,7 @@
-# Upload a file to Bitbucket via command line
+# Upload files to Bitbucket via command line
 
 ## Pre-requisite
-* git (installed on the work station)
+* git (installed on the AICIP work station)
 
 An easy way is to remote the work station
 
@@ -18,12 +18,17 @@ $ git clone URL
 $ cd repo
 ```
 
-4.Add a new file to the local repo
+4.Add new files to the local repo
 
 5.Stay in the directory of local repo, sync the local repo to the sever
+
 ```
-$ git add new_file_name
+$ git add new_file_name1
+$ git add new_file_name2
+...
 $ git commit -m 'message'
 $ git push
 ```
+
+Please modify the mesage to your name or any useful information.
 Then account name and password are required.
