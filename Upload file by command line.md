@@ -31,4 +31,4 @@ $ git push
 ```
 
 Please modify the mesage to your name or any useful information.
-Then account name and password are required.
+Then account name and password may be required.
