@@ -82,5 +82,4 @@ Zhifei Zhang, Yang Song, Wei Wang, and Hairong Qi. "Derivative Delay Embedding: 
   year={2016},
   organization={ACM}
 }
-}
 ```
