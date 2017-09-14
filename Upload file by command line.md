@@ -23,9 +23,7 @@ $ cd repo
 5.Stay in the directory of local repo, sync the local repo to the sever
 
 ```
-$ git add new_file_name1
-$ git add new_file_name2
-...
+$ git add --all
 $ git commit -m 'message'
 $ git push
 ```
