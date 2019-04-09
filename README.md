@@ -66,6 +66,9 @@ Comparison to the state-of-the-art algorithms
     * `lowpassFilter.m` performs low-pass filter to filter the raw data
 * [paper](https://bitbucket.org/aicip/delay_embedding/src/80d2f795015cfcc259ef9eadd4503d3566ddc1fd/paper/?at=master) includes the published paper and presentation
 
+* [PPT presentation,
+  194MB](https://drive.google.com/a/utk.edu/file/d/1Ii4yo5CDL47Ovrh334HFbiC6yNsqwRmH/view?usp=sharing)
+
 
 ## Citation
 Zhifei Zhang, Yang Song, Wei Wang, and Hairong Qi. "Derivative Delay Embedding: Online Modeling of Streaming Time Series". *The 25th ACM International Conference on Information and Knowledge Management (CIKM)*, 2016. ([PDF](https://arxiv.org/pdf/1609.07540v1.pdf))
